@@ -197,10 +197,10 @@ model = Model([encoder_input, decoder_input], decoder_outputs)
 
 model.summary()
 
-## Define a checkpoint callback :
-#checkpoint_name = 'Weights-{epoch:03d}--{val_loss:.5f}.hdf5'
-#checkpoint = ModelCheckpoint(checkpoint_name, monitor='val_loss', verbose = 1, save_best_only = True, mode ='auto')
-#callbacks_list = [checkpoint]
+# Define a checkpoint callback :
+checkpoint_name = 'Weights-{epoch:03d}--{val_loss:.5f}.hdf5'
+checkpoint = ModelCheckpoint(checkpoint_name, monitor='val_loss', verbose = 1, save_best_only = True, mode ='auto')
+callbacks_list = [checkpoint]
 
 '''
 Train the Model
