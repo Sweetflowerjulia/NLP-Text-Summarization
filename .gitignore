@@ -9,3 +9,4 @@ checkpoint
 *cache*
 data_cleanning-checkpoint.ipynb
 .ipynb_checkpoints
+.DS_Store
