@@ -1,4 +1,10 @@
 data
+tmp
+checkpoint
 *.pkl
 *.h5
 *.hdf5
+*checkpoints*
+*file*
+*cache*
+data_cleanning-checkpoint.ipynb
