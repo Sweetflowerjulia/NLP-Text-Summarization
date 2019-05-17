@@ -4,9 +4,12 @@ checkpoint
 *.pkl
 *.h5
 *.hdf5
-*checkpoints*
+*checkpoint*
 *file*
+model_files*
 *cache*
+__pycache__
 data_cleanning-checkpoint.ipynb
 .ipynb_checkpoints
+.ipynb
 .DS_Store
