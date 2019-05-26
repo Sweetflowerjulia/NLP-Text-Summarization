@@ -13,3 +13,5 @@ data_cleanning-checkpoint.ipynb
 .ipynb_checkpoints
 .ipynb
 .DS_Store
+fine_tuned_model
+uncased_L-12_H-768_A-12
