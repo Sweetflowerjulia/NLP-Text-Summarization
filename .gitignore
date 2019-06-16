@@ -1,3 +1,7 @@
+trained_model
+data_last256
+model_file*
+new_BERT
 data
 tmp
 checkpoint
