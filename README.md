@@ -1,6 +1,8 @@
 # Text-Summarization
-Online review text summarization with tensor2tensor and lstm
+Online review text summarization with Transformer
 
-1. tensor2tensor
+1. tensor2tensor Transformer
 
-2. lstm
+2. BERT pre-trained model
+
+3. GRU with Attention
